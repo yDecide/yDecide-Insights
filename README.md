@@ -15,6 +15,7 @@ A roadmap for new features and details to the launch planning will be added soon
 1. **Reporting Issues:** Please use the `Issues` tab to report any bugs or problems. Try to provide as much detail as possible to help us understand and reproduce the issue.
 2. **Feature Requests:** Add an issue with "Feature Request" in the title to suggest new functionalities or enhancements.
 3. **Feedback:** General feedback can be also provided. We value all input! You can also get in touch on the website or social media.
+4. **Discussions:** Feel free to start a discussion or join an existing one.
 
 ## Contribution Guidelines
 
