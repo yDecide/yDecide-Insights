@@ -2,7 +2,7 @@
 
 Welcome to the feedback hub for the yDecide app!
 
-** The app is in development right now. ** 
+**The app is in development right now.** 
 
 ## Overview
 
@@ -13,7 +13,7 @@ A roadmap for new features and details to the launch planning will be added soon
 ## Getting Started
 
 1. **Reporting Issues:** Please use the `Issues` tab to report any bugs or problems. Try to provide as much detail as possible to help us understand and reproduce the issue.
-2. **Feature Requests:** Add a issue with "Feature Request" in the title to suggest new functionalities or enhancements.
+2. **Feature Requests:** Add an issue with "Feature Request" in the title to suggest new functionalities or enhancements.
 3. **Feedback:** General feedback can be also provided. We value all input! You can also get in touch on the website or social media.
 
 ## Contribution Guidelines
